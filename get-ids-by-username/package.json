@@ -1,0 +1,14 @@
+{
+  "name": "get-ids-by-username",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hackerhgl",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.5"
+  }
+}
